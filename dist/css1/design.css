@@ -1,0 +1,19 @@
+* {
+	padding:0;
+	margin:0;
+	font-family: sans-serif; 
+}
+
+.medsos {
+	padding: 5px 0;
+	background-color: #4e73df;
+}
+
+.medsos ul li {
+	color: #ffff;
+}
+
+header h1{
+	background-color: #4e73df;
+	color: #ffff; 
+}

@@ -1,0 +1,396 @@
+[19-Jun-2019 12:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:27:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:28:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/bimokont/ac.bimokontrol.com/tes.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 2
+[19-Jun-2019 12:40:33 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:40:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:40:33 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:40:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:40:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:40:41 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:41:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:41:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:41:11 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:41:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:41:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:41:41 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:42:10 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:42:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:42:10 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:42:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:42:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:42:12 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:42:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:42:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:42:17 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:42:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:42:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:42:42 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:43:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:43:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:43:12 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:43:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:43:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:43:13 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:43:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:43:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:43:42 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:44:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:44:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:44:12 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:44:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:44:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:44:42 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:45:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:45:13 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:45:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:45:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:45:43 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:46:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:46:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:46:04 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:46:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:46:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:46:13 UTC] PHP Notice:  Undefined variable: cek in /home/bimokont/ac.bimokontrol.com/tes.php on line 32
+[19-Jun-2019 12:46:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:46:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:47:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:47:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:47:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:47:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/bimokont/ac.bimokontrol.com/tes.php on line 29
+[19-Jun-2019 12:47:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:47:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:47:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:47:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:48:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[19-Jun-2019 12:49:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bimokont/ac.bimokontrol.com/tes.php on line 27
+[19-Jun-2019 12:49:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/bimokont/ac.bimokontrol.com/tes.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bimokont/ac.bimokontrol.com/tes.php on line 28
+[22-Jun-2019 04:53:56 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:53:58 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:53:59 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:00 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:01 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:02 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:04 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:05 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:06 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:07 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:08 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:10 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:11 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:12 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:13 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:15 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:16 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:17 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:18 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:19 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:20 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:22 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:23 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:24 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:25 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:26 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:28 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:29 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:30 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:31 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:32 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:34 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:35 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:36 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:37 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:38 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:40 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:41 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:42 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:43 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:44 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:46 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:47 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:48 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:49 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:50 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:52 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:53 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:54 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:55 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:56 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:58 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:54:59 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:00 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:01 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:02 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:04 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:05 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:06 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:07 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:09 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:10 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:11 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:12 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:14 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:15 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:16 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:17 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:19 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:20 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:21 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:23 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:24 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:25 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:26 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:27 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:29 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:30 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:31 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:32 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:33 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:35 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:36 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:37 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:38 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:40 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:41 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:42 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:43 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:44 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:46 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:47 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:48 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:49 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:50 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:52 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:53 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:54 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:55 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:56 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:58 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:55:59 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:00 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:01 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:02 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:03 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:05 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:06 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:07 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:08 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:09 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:11 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:12 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:13 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:14 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:15 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:17 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:18 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:19 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:20 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:21 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:23 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:24 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:25 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:26 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:28 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:29 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:30 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:31 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:32 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:34 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:35 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:36 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:38 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:39 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:40 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:41 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:42 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:44 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:45 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:46 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:47 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:48 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:50 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:51 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:52 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:53 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:54 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:56 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:57 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:58 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:56:59 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:57:00 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:57:02 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:57:03 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:57:04 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
+[22-Jun-2019 04:57:05 UTC] PHP Fatal error:  Cannot redeclare Md_ac_pakai::updateStatusAc() in /home/bimokont/ac.bimokontrol.com/application/models/Md_ac_pakai.php on line 66
