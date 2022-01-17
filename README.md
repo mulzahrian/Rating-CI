@@ -3,7 +3,7 @@
 Instalation
 follow the instructions below:
 ```
-git clone https://github.com/mulzahrian/Veterinary_Medical_Record_System_Ci.git
+git clone https://github.com/mulzahrian/Rating-CI.git
 ```
 > - Download the source code or clone on gitbash
 > - Instal xampp
