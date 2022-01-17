@@ -1,2 +1,12 @@
-Rating System with Codeigniter
-# Rating-CI
+**Rating System with Codeigniter**
+*******************
+Instalation
+follow the instructions below:
+```
+git clone https://github.com/mulzahrian/Veterinary_Medical_Record_System_Ci.git
+```
+> - Download the source code or clone on gitbash
+> - Instal xampp
+> - Put the source code on htdocs file
+> - Run program on your browser
+> - Use this link localhost/Rating-Ci
