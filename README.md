@@ -1,4 +1,5 @@
 **Rating System with Codeigniter**
+- Codeigniter version is 3.1.11
 *******************
 Instalation
 follow the instructions below:
