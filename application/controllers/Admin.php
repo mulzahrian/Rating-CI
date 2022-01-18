@@ -3,7 +3,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Admin extends CI_Controller {
-    private $filename = "import_data"; // Kita tentukan nama filenya
+    private $filename = "import_data";
     public function __construct() {
         parent::__construct();
 
@@ -33,9 +33,6 @@ class Admin extends CI_Controller {
         $this->load->view('admin/index', $pageData);
     }
 
-    
-    //event
-
    public function event(){ 
         // $pageData['event'] = $this->Md_acara->tampilan();
         $pageData['data_pengguna'] = $this->Md_pengguna->getPenggunaAll();
@@ -60,9 +57,7 @@ class Admin extends CI_Controller {
             $this->form_validation->set_rules('tanggal','tanggal', 'required');
             $this->form_validation->set_rules('jam_mul','jam_mul', 'required');
             $this->form_validation->set_rules('jam_sel','jam_sel', 'required');
-
             if ($this->form_validation->run() != FALSE){
-
                 $lokasi  =  $this->input->post('lokasi');
                 $pic     =  $this->input->post('pic');
                 $kontak = $this->input->post('kontak');
@@ -71,7 +66,6 @@ class Admin extends CI_Controller {
                 $tanggal =  $this->input->post('tanggal');
                 $jam_mul =  $this->input->post('jam_mul');
                 $jam_sel =  $this->input->post('jam_sel');
-
                 $dataInsert = array(
                     'lokasi'  => $lokasi,
                     'pic' => $pic,
@@ -83,13 +77,11 @@ class Admin extends CI_Controller {
                     'jam_sel' => $jam_sel,
                     'status' => 1
                 );
-
                 $this->Md_acara->addEvent($dataInsert);
                 $this->session->set_flashdata('pesan', 'Data <strong>berhasil</strong> disimpan (<i>Data <strong>saved</strong> successfully</i>)');
             }
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }else{
-
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }
         redirect(base_url() . 'admin/event', 'refresh');
@@ -102,16 +94,12 @@ class Admin extends CI_Controller {
             $this->form_validation->set_rules('email', 'email', 'required');
             $this->form_validation->set_rules('subject','subject', 'required');
             $this->form_validation->set_rules('masukkan','masukkan', 'required');
-            // $this->form_validation->set_rules('bintang','bintang', 'required');
-
             if ($this->form_validation->run() != FALSE){
-
                 $nama  =  $this->input->post('nama');
                 $email     =  $this->input->post('email');
                 $subject = $this->input->post('subject');
                 $masukkan =  $this->input->post('masukkan');
-                // $bintang =  $this->input->post('bintang');
-
+				
                 $dataInsert = array(
                     'nama'  => $nama,
                     'email' => $email,
@@ -119,26 +107,15 @@ class Admin extends CI_Controller {
                     'masukkan' => $masukkan,
                     'bintang' => 1,
                 );
-
                 $this->Md_acara->addEvent($dataInsert);
                 $this->session->set_flashdata('pesan', 'Data <strong>berhasil</strong> disimpan (<i>Data <strong>saved</strong> successfully</i>)');
             }
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }else{
-
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }
         redirect(base_url() . 'admin/kritik', 'refresh');
     }
-
-
-    //test
-
-   
-
-    //
-
-
 
     function edit_event(){
         if (!empty($_POST)){
@@ -163,7 +140,6 @@ class Admin extends CI_Controller {
                 $jam_mul =  $this->input->post('jam_mul');
                 $jam_sel =  $this->input->post('jam_sel');
                 $status =  $this->input->post('status');
-
                 $dataInsert = array(
                     'lokasi'  => $lokasi,
                     'pic' => $pic,
@@ -175,13 +151,11 @@ class Admin extends CI_Controller {
                     'jam_sel' => $jam_sel,
                     'status' => $status,
                 );
-
                 $this->Md_acara->updateEvent($id,$dataInsert);
                 $this->session->set_flashdata('pesan', 'Data <strong>berhasil</strong> disimpan (<i>Data <strong>saved</strong> successfully</i>)');
             }
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }else{
-
             $this->session->set_flashdata('warning', '<strong>Gagal .. !</strong> Data  gagal ditambahkan, semua fill harus diisi</strong>');
         }
         redirect(base_url() . 'admin/event', 'refresh');
@@ -206,13 +180,6 @@ class Admin extends CI_Controller {
         $this->session->set_flashdata('pesan', 'Data <strong>berhasil</strong> dihapus (<i>Data <strong>saved</strong> successfully</i>)');
         redirect(base_url() . 'test', 'refresh');
     }
-
-
-
-    //end event
-
-
-   
 
     public function pengguna(){ 
         $pageData['data_pengguna'] = $this->Md_pengguna->getPenggunaAll();
@@ -296,8 +263,5 @@ class Admin extends CI_Controller {
         $this->Md_pengguna->updatePengguna($pengguna_id,$dataInsert);
         $this->session->set_flashdata('pesan', 'Data <strong>berhasil</strong> dihapus (<i>Data <strong>saved</strong> successfully</i>)');
         redirect(base_url() . 'admin/pengguna', 'refresh');
-    }
-
-
-   
+    }   
 }
