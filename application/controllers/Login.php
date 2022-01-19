@@ -28,7 +28,6 @@ class Login extends CI_Controller {
 
 	public function check() {
 
-        //set validation
 		$this->form_validation->set_rules('username', 'field username', 'required');
 		$this->form_validation->set_rules('password', 'field password', 'required');
 
@@ -81,7 +80,3 @@ class Login extends CI_Controller {
 	}
 
 }
-
-/* End of file Admin.php */
-
-/* Location: ./application/controllers/Admin.php */
