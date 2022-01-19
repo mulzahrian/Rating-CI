@@ -34,14 +34,12 @@ class Admin extends CI_Controller {
     }
 
    public function event(){ 
-        // $pageData['event'] = $this->Md_acara->tampilan();
         $pageData['data_pengguna'] = $this->Md_pengguna->getPenggunaAll();
         $pageData['page_name'] = 'event';
         $this->load->view('admin/index', $pageData);
     }
 
     public function kritik(){ 
-        // $pageData['kritik'] = $this->Md_acara->tampilan();
         $pageData['data_pengguna'] = $this->Md_pengguna->getPenggunaAll();
         $pageData['page_name'] = 'kelola_pengguna';
         $this->load->view('admin/index', $pageData);
