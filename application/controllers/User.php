@@ -3,7 +3,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class User extends CI_Controller {
-    private $filename = "import_data"; // Kita tentukan nama filenya
+    private $filename = "import_data";
     public function __construct() {
         parent::__construct();
 
@@ -14,36 +14,12 @@ class User extends CI_Controller {
         $this->load->library('encryption');
         $this->load->helper('encryption_id');
         $this->load->library('form_validation');
-
-        // if ($this->session->userdata('login_type') != "user")
-        //      redirect(base_url() . 'masukan', 'refresh');
-        
     }
 
-    /**     * security HOME** */
     public function index() {
        
         $pageData['acara'] = $this->Md_acara->getRuanganaja();
         $pageData['page_name'] = 'home';
         $this->load->view('user/index', $pageData);
     }
-    
-
-   
-   
-
-
-   
-
-    
-
-    
-   
-    
-
-    
-    
-
-    // ---------------------------------ARDUNI-----------------------------------------------
-
 }
