@@ -15,16 +15,10 @@ class Welcome extends CI_Controller {
         $this->load->helper('date');
         $this->load->library('encryption');
         $this->load->helper('encryption_id');
-        $this->load->library('form_validation');
-        
-         
+        $this->load->library('form_validation');    
     }
-
 	public function index() {
         $pageData['isi'] = $this->Md_bisa->Tampilbisa();
         $this->load->view('welcome', $pageData);
     }
 }
-
-
-//ac.bimokomtrol.com/welcome/absensi
