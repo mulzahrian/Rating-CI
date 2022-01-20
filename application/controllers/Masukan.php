@@ -17,13 +17,6 @@ class Masukan extends CI_Controller {
 	}
 
 	public function index() {
-
-		// if ($this->session->userdata('login_type') == 'admin') {
-		// 	redirect(base_url() . 'admin', 'refresh');
-		// }else if ($this->session->userdata('login_type') == 'user') {
-		// 	redirect(base_url() . 'user', 'refresh');
-		// }
-
 		$this->load->view('login');
 	}
 
@@ -87,8 +80,6 @@ class Masukan extends CI_Controller {
     }
 
 	public function check() {
-
-        //set validation
 		$this->form_validation->set_rules('username', 'field username', 'required');
 		$this->form_validation->set_rules('password', 'field password', 'required');
 
@@ -139,11 +130,4 @@ class Masukan extends CI_Controller {
 		$this->session->set_flashdata('pesan', 'logged out');
 		redirect(base_url() . 'login', 'refresh');
 	}
-
-
-
 }
-
-/* End of file Admin.php */
-
-/* Location: ./application/controllers/Admin.php */
