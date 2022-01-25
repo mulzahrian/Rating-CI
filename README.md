@@ -1,6 +1,8 @@
 **Rating System with Codeigniter**
 - Codeigniter version is 3.1.11
 *******************
+
+this system is a web-based system for rating goods and services built in the php language with the implementation of a framework called codeigniter
 Instalation
 follow the instructions below:
 ```
