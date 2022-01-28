@@ -182,7 +182,6 @@
 								</tr>
 						</table>
 					</div>
-					<!-- /.box-body -->	
 				</div>
 				<?php echo form_close(); ?>
 			</div>
