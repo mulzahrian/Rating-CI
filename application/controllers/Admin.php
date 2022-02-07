@@ -21,7 +21,6 @@ class Admin extends CI_Controller {
          
     }
 
-    /**     * ADMIN HOME** */
     public function index() {
         $pageData['iya'] = $this->Md_bisa->Tampilbisa();
         $this->load->view('admin/coba');
